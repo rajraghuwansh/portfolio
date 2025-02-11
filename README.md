@@ -1,10 +1,7 @@
-Here’s a more visually appealing and concise version of your README file, tailored for hosting on your personal website. I've removed the publications section, kept the original images, and made the content more engaging and professional:
 
----
+# Machine learning operation at Stellantis, Paris, France
 
-# Data Scientist
-
-#### **Technical Skills:** Python, SQL, AWS, Snowflake, MATLAB, PySpark, TensorFlow, PyTorch, Tableau, Databricks
+#### **Technical Skills:** Python, SQL, AWS, C++, MATLAB, PySpark, TensorFlow, PyTorch, Tableau, Databricks
 
 ---
 
