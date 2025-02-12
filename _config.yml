@@ -1,7 +1,7 @@
 title: Raghuwansh Raj
 logo: /assets/img/headshot_raghu.png
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 
 # Site Author - Controls what appears in the author profile sidebar.
 author:
@@ -10,7 +10,7 @@ author:
   github: "rajraghuwansh"
   linkedin: "https://www.linkedin.com/in/raghuwansh/"
   email: "raghuwansh.rajm@gmail.com"  # Optional: Add your email if you want it to appear
-  bio: "Machine Learning Engineer at Stellantis | Loves Mathematics"  # Optional: Add a short bio
+  bio: "ML Enginner,loves mathematics"  # Optional: Add a short bio
 
 # Site Settings
 description: "Welcome to my personal website! I am a Machine Learning Engineer based in Paris, specializing in AI, Data Science, and Optimization."
