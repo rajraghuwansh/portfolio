@@ -19,7 +19,7 @@ title_separator          : "Welcome to my profile! I am a 27-year-old Machine Le
 #I am committed to developing my career in this exciting field. I am eager to contribute to innovative solutions and explore cutting-edge advancements that blend technology with real-world impact"
 name                     : &name "Raghuwansh Raj Mishra"
 description              : &description " "
-url                      : "https://rajraghuwansh.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://rajraghuwansh.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. ""
 repository               : "rajraghuwansh/rajraghuwansh.github.io"
 
