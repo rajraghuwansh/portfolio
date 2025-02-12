@@ -1,4 +1,4 @@
-![Profile Picture](/assets/headshot_raghu.png)
+
 # Machine learning operations at Stellantis, Paris, France
 
 #### **Technical Skills:** Python, SQL, AWS, C++, MATLAB, PySpark, TensorFlow, PyTorch, Tableau, Databricks,git,  putty, OOP
