@@ -1,3 +1,21 @@
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "Raghuwansh's Homepage"
+title_separator          : "Welcome to my profile! I am a 27-year-old Machine Learning Engineer currently working at Stellantis, based in the beautiful city of Paris. Born and raised in India, 
+I have always been deeply passionate about mathematics, technology, and machine learning, which have shaped my academic and professional journey.
+
+I hold a Bachelor's degree in Engineering with a minor in Mathematics from IIT BHU Varanasi. 
+To further nurture my passion for data and innovation, 
+I pursued a double master's degree in Machine Learning and Business Analytics from CentraleSupélec and ESSEC Business School.
+
+With a strong foundation in analytics and a drive to push the boundaries of AI, 
+I am committed to developing my career in this exciting field. I am eager to contribute to innovative solutions and explore cutting-edge advancements that blend technology with real-world impact"
+name                     : &name "Raghuwansh Raj Mishra"
+description              : &description " "
+url                      : https://rajraghuwansh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "rajraghuwansh/rajraghuwansh.github.io"
+
 title: Raghuwansh Raj
 logo: /assets/img/headshot_raghu.png
 #description: text below image
