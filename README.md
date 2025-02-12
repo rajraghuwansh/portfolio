@@ -1,13 +1,13 @@
 
-# Machine learning operation at Stellantis, Paris, France
+# Machine learning operations at Stellantis, Paris, France
 
-#### **Technical Skills:** Python, SQL, AWS, C++, MATLAB, PySpark, TensorFlow, PyTorch, Tableau, Databricks
+#### **Technical Skills:** Python, SQL, AWS, C++, MATLAB, PySpark, TensorFlow, PyTorch, Tableau, Databricks,git,  putty, OOP
 
 ---
 
 ## **Work Experience**
 
-### **Machine Learning Engineer @ Stellantis (Full Time)(Jun2023 - Present) **  
+### Machine Learning Engineer @ Stellantis (Full Time)(Jun2023 - Present)   
 - Designed and implemented **end-to-end MLOps pipelines** using **PySpark** and **MLflow** in **Databricks**.  
 - Optimized code for performance and scalability, ensuring seamless integration with production systems.  
 - Collaborated with cross-functional teams to deploy machine learning models into production environments.
