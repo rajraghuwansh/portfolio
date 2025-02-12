@@ -19,7 +19,7 @@
       
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
- <div style="text-align: center;">
+<div style="text-align: center; color: #333;">  <!-- Set text color -->
   {% if site.logo %}
     <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 100px; height: auto; display: block; margin: 0 auto;">
   {% endif %}
@@ -31,23 +31,24 @@
   </h2>
   
   {% if site.author.location %}
-    <p style="margin: 5px 0; font-size: 14px; color: #777;">📍 {{ site.author.location }}</p>
+    <p style="margin: 5px 0;">📍 {{ site.author.location }}</p>
   {% endif %}
 
   <p style="margin: 5px 0;">
     {% if site.author.github %}
-      <a href="https://github.com/{{ site.author.github }}" target="_blank" style="text-decoration: none; margin-right: 10px;">
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" style="text-decoration: none; color: inherit; margin-right: 10px;">
         🔗 GitHub
       </a>
     {% endif %}
     
     {% if site.author.linkedin %}
-      <a href="{{ site.author.linkedin }}" target="_blank" style="text-decoration: none;">
+      <a href="{{ site.author.linkedin }}" target="_blank" style="text-decoration: none; color: inherit;">
         🔗 LinkedIn
       </a>
     {% endif %}
   </p>
 </div>
+
 
       
       {% if site.github.is_project_page %}
