@@ -19,9 +19,9 @@ title_separator          : "Welcome to my profile! I am a 27-year-old Machine Le
 #I am committed to developing my career in this exciting field. I am eager to contribute to innovative solutions and explore cutting-edge advancements that blend technology with real-world impact"
 name                     : &name "Raghuwansh Raj Mishra"
 description              : &description " "
-url                      : "https//rajraghuwansh.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/portfolio" # the subpath of your site, e.g. ""
-repository               : "https://github.com/rajraghuwansh/portfolio/"
+url                      : "https://rajraghuwansh.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. ""
+repository               : "rajraghuwansh/rajraghuwansh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
