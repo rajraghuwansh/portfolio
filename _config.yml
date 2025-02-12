@@ -1,7 +1,28 @@
 title: Raghuwansh Raj
 logo: /assets/img/headshot_raghu.png
-location: Paris, France
-github: "rajraghuwansh"
-Linkedin: "https://www.linkedin.com/in/raghuwansh/"
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Site Author - Controls what appears in the author profile sidebar.
+author:
+  name: "Raghuwansh Raj"
+  location: "Paris, France"
+  github: "rajraghuwansh"
+  linkedin: "https://www.linkedin.com/in/raghuwansh/"
+  email: "raghuwansh.rajm@gmail.com"  # Optional: Add your email if you want it to appear
+  bio: "Machine Learning Engineer at Stellantis | Passionate about AI, Data Science, and Innovation"  # Optional: Add a short bio
+
+# Site Settings
+description: "Welcome to my personal website! I am a Machine Learning Engineer based in Paris, specializing in AI, Data Science, and Optimization."
+url: "https://rajraghuwansh.github.io"  # Your GitHub Pages URL
+baseurl: ""  # Leave blank unless your site is in a subdirectory
+
+# Plugins (if needed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional: Customize the theme further
+minimal:
+  show_author: true  # Ensure the author details are shown
+  show_social: true  # Ensure social links (GitHub, LinkedIn) are shown
