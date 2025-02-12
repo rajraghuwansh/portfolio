@@ -29,7 +29,7 @@ repository               : "rajraghuwansh/rajraghuwansh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "assets/img/headshot_raghu.png"
   name             : "Raghuwansh Raj Mishra" 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Paris, France"
