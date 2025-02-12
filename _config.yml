@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Raghuwansh's Homepage"
+logo                     : /assets/img/headshot_raghu.png
 title_separator          : "Welcome to my profile! I am a 27-year-old Machine Learning Engineer currently working at Stellantis, based in the beautiful city of Paris. Born and raised in India, 
 I have always been deeply passionate about mathematics, technology, and machine learning, which have shaped my academic and professional journey.
 
